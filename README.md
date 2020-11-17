@@ -1,5 +1,16 @@
 # fe-resources
 
+## create
+* https://www.photopea.com/
+* https://doka.photo/
+* https://pixlr.com/x/
+* https://vectr.com/tmp/elfcj8EZs/a3PnqzrO
+* https://boxy-svg.com/app
+* https://icons8.com/vector-creator/dashboard
+* https://generator.opendoodles.com/
+* https://sapiens.ui8.net/7m7c2s1
+* https://undraw.co/illustrations
+
 ## packages
 * https://www.skypack.dev/
 * https://libraries.io/
@@ -7,6 +18,8 @@
 ## api
 * https://reqres.in/
 * https://docs.postman-echo.com/
+* https://httpbin.org/
+* http://ptsv2.com/
 
 ## performance
 * https://googlechrome.github.io/lighthouse/scorecalc/
@@ -90,3 +103,5 @@
 * https://romannurik.github.io/SlidesCodeHighlighter/
 * https://omatsuri.app/
 * https://www.30secondsofcode.org/
+* https://carbon.now.sh/?bg=rgba(0%2C0%2C0%2C0)&t=one-dark&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=36px&wc=true&wa=true&pv=50px&ph=50px&ln=true&fm=Fira%20Code&fs=16px&lh=140%25&si=false&es=2x&wm=false
+* https://themer.dev/?colors.dark.shade0=%23212121&colors.dark.shade7=%23fafafa&colors.dark.accent0=%23ec407a&colors.dark.accent1=%23ce93d8&colors.dark.accent2=%23ffc107&colors.dark.accent3=%238bc34a&colors.dark.accent4=%2326a69a&colors.dark.accent5=%2342a5f5&colors.dark.accent6=%23b388ff&colors.dark.accent7=%237e57c2&colors.light.shade0=%23fafafa&colors.light.shade7=%23212121&colors.light.accent0=%23e91e63&colors.light.accent1=%239575cd&colors.light.accent2=%23ff5722&colors.light.accent3=%234caf50&colors.light.accent4=%23009688&colors.light.accent5=%233f51b5&colors.light.accent6=%239c27b0&colors.light.accent7=%23673ab7&activeColorSet=dark&calculateIntermediaryShades.dark=true&calculateIntermediaryShades.light=true
