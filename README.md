@@ -14,12 +14,14 @@
 ## packages
 * https://www.skypack.dev/
 * https://libraries.io/
+* https://openbase.io/
 
 ## api
 * https://reqres.in/
 * https://docs.postman-echo.com/
 * https://httpbin.org/
 * http://ptsv2.com/
+* https://www.endpoints.dev/
 
 ## performance
 * https://googlechrome.github.io/lighthouse/scorecalc/
@@ -32,11 +34,17 @@
 * https://jsben.ch/
 * https://pageweight.imgix.com/
 * https://www.speedscope.app/
+* https://github.com/zachleat/speedlify
 
 ## fonts
 * https://meowni.ca/font-style-matcher/
 * http://tiff.herokuapp.com/
 * https://www.thegoodlineheight.com/
+
+## coding fonts
+* https://coding-fonts.css-tricks.com/fonts/anonymous-pro/
+* https://www.programmingfonts.org/
+* https://devfonts.gafi.dev/
 
 ## animations
 * https://keyframes.app/animate/
@@ -50,6 +58,9 @@
 * https://cssgradient.io/gradient-backgrounds/
 * https://uigradients.com/
 * https://webgradients.com/
+
+## git
+* https://ohshitgit.com/
 
 ## backgrounds
 * https://www.svgbackgrounds.com/
@@ -67,6 +78,7 @@
 * https://openmoji.org/
 * https://phosphoricons.com/
 * https://svgbox.net/
+* https://typogram.github.io/Anicons/index.html
 
 ## avatars
 * https://bigheads.io/editor/
@@ -98,6 +110,7 @@
 ## misc
 * https://browserl.ist/
 * http://keycode.info/
+* https://resrc.dev/
 * https://conventionalcomments.org/
 * https://devdocs.io/
 * https://romannurik.github.io/SlidesCodeHighlighter/
