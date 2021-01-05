@@ -52,6 +52,7 @@
 
 ## animations
 * https://keyframes.app/animate/
+* https://svgartista.net/
 
 ## colors
 * https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02
@@ -70,6 +71,9 @@
 
 ## git
 * https://ohshitgit.com/
+
+## email
+* https://postmarkapp.com/transactional-email-templates
 
 ## backgrounds
 * https://www.svgbackgrounds.com/
@@ -94,7 +98,10 @@
 ## avatars
 * https://bigheads.io/editor/
 * https://github.com/adorableio/avatars-api-middleware/issues/108
+
+## illustrations
 * https://www.openpeeps.com/
+* https://storyset.com/
 
 ## security
 * https://www.ssllabs.com/ssltest/
