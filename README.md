@@ -10,6 +10,7 @@
 * https://generator.opendoodles.com/
 * https://sapiens.ui8.net/7m7c2s1
 * https://undraw.co/illustrations
+* https://yqnn.github.io/svg-path-editor/
 
 ## packages
 * https://www.skypack.dev/
@@ -36,6 +37,9 @@
 * https://www.speedscope.app/
 * https://github.com/zachleat/speedlify
 
+## images
+* https://github.com/joe-bell/plaiceholder
+
 ## fonts
 * https://meowni.ca/font-style-matcher/
 * http://tiff.herokuapp.com/
@@ -53,11 +57,16 @@
 * https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02
 * https://color.review/
 * https://toolness.github.io/accessible-color-matrix/
+* https://colormixer.web.app/
 
 ## gradients
 * https://cssgradient.io/gradient-backgrounds/
 * https://uigradients.com/
 * https://webgradients.com/
+* https://gradihunt.com/
+
+## shapes
+* https://wweb.dev/resources/css-separator-generator
 
 ## git
 * https://ohshitgit.com/
@@ -65,6 +74,8 @@
 ## backgrounds
 * https://www.svgbackgrounds.com/
 * https://www.heropatterns.com/
+* https://tabbied.com/
+* https://tinkersynth.com/
 
 ## a11y
 * https://www.accessify.com/
@@ -83,6 +94,7 @@
 ## avatars
 * https://bigheads.io/editor/
 * https://github.com/adorableio/avatars-api-middleware/issues/108
+* https://www.openpeeps.com/
 
 ## security
 * https://www.ssllabs.com/ssltest/
@@ -108,6 +120,7 @@
 * https://www.ibm.com/security/digital-assets/cybersecurity-ops/terminal/
 
 ## misc
+* https://appydev.co/
 * https://browserl.ist/
 * http://keycode.info/
 * https://resrc.dev/
@@ -117,4 +130,17 @@
 * https://omatsuri.app/
 * https://www.30secondsofcode.org/
 * https://carbon.now.sh/?bg=rgba(0%2C0%2C0%2C0)&t=one-dark&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=36px&wc=true&wa=true&pv=50px&ph=50px&ln=true&fm=Fira%20Code&fs=16px&lh=140%25&si=false&es=2x&wm=false
+* https://ramrocode.netlify.app/#/
 * https://themer.dev/?colors.dark.shade0=%23212121&colors.dark.shade7=%23fafafa&colors.dark.accent0=%23ec407a&colors.dark.accent1=%23ce93d8&colors.dark.accent2=%23ffc107&colors.dark.accent3=%238bc34a&colors.dark.accent4=%2326a69a&colors.dark.accent5=%2342a5f5&colors.dark.accent6=%23b388ff&colors.dark.accent7=%237e57c2&colors.light.shade0=%23fafafa&colors.light.shade7=%23212121&colors.light.accent0=%23e91e63&colors.light.accent1=%239575cd&colors.light.accent2=%23ff5722&colors.light.accent3=%234caf50&colors.light.accent4=%23009688&colors.light.accent5=%233f51b5&colors.light.accent6=%239c27b0&colors.light.accent7=%23673ab7&activeColorSet=dark&calculateIntermediaryShades.dark=true&calculateIntermediaryShades.light=true
+
+## resources
+* https://wweb.dev/resources
+
+## courses
+* https://moderndevtools.com/
+* https://every-layout.dev/
+* https://css-for-js.dev/
+* 
+
+## workflow
+* https://www.smashingmagazine.com/2016/12/digital-clean-up-checklist/
